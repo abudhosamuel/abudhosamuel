@@ -3,17 +3,17 @@
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [abudhosamuel.com](abudhosamuel.com)
 
-- 💬 Ask me about **Android, Python**
+- 💬 Ask me about **Android, Java**
 
 - 📫 How to reach me **abudhosamuel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samuel abudho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel abudho" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuel-abudho-9689a5202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel abudho" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
