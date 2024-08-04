@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [abudhosamuel.com](abudhosamuel.com)
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **React, Python**
 
 - 📫 How to reach me **abudhosamuel@gmail.com**
 
