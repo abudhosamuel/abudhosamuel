@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [abudhosamuel.com](abudhosamuel.com)
 
